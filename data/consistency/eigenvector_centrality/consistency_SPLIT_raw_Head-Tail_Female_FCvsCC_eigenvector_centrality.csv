@@ -1,0 +1,7 @@
+,Network Measure,Score,Interaction,Gender,Strain,Care,Group,File,Iteration,Total_Iterations
+0,eigenvector centrality,0.47140452079103173,Head-Tail,Female,FCvsCC,CC,30,fixed_Female-FCvsCC_3vs3Females_P60_FCvsCC_Group9E_interaction_30min__cam_2_Thu_06_27_2019_mjpeg_tracks.mat,1,3
+1,eigenvector centrality,0.47140452079103196,Head-Tail,Female,FCvsCC,CC,30,fixed_Female-FCvsCC_3vs3Females_P60_FCvsCC_Group9E_interaction_30min__cam_2_Thu_06_27_2019_mjpeg_tracks.mat,2,3
+2,eigenvector centrality,0.4166666666666667,Head-Tail,Female,FCvsCC,CC,30,fixed_Female-FCvsCC_3vs3Females_P60_FCvsCC_Group9E_interaction_30min__cam_2_Thu_06_27_2019_mjpeg_tracks.mat,3,3
+0,eigenvector centrality,0.2357022603955159,Head-Tail,Female,FCvsCC,FC,30,fixed_Female-FCvsCC_3vs3Females_P60_FCvsCC_Group9E_interaction_30min__cam_2_Thu_06_27_2019_mjpeg_tracks.mat,1,3
+1,eigenvector centrality,0.2357022603955158,Head-Tail,Female,FCvsCC,FC,30,fixed_Female-FCvsCC_3vs3Females_P60_FCvsCC_Group9E_interaction_30min__cam_2_Thu_06_27_2019_mjpeg_tracks.mat,2,3
+2,eigenvector centrality,0.25000000000000006,Head-Tail,Female,FCvsCC,FC,30,fixed_Female-FCvsCC_3vs3Females_P60_FCvsCC_Group9E_interaction_30min__cam_2_Thu_06_27_2019_mjpeg_tracks.mat,3,3
