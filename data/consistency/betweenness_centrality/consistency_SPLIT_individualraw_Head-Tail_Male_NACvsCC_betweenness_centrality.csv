@@ -1,0 +1,13 @@
+,Network Measure,Score,Interaction,Gender,Strain,Care,Group,File,Iteration,Total_Iterations
+0,betweenness centrality,0.45,Head-Tail,Male,NACvsCC,CC_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+1,betweenness centrality,0.0,Head-Tail,Male,NACvsCC,CC_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+2,betweenness centrality,0.2,Head-Tail,Male,NACvsCC,CC_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+3,betweenness centrality,0.0,Head-Tail,Male,NACvsCC,Nac_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+4,betweenness centrality,0.0,Head-Tail,Male,NACvsCC,Nac_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+5,betweenness centrality,0.15000000000000002,Head-Tail,Male,NACvsCC,Nac_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+6,betweenness centrality,0.45,Head-Tail,Male,NACvsCC,CC_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+7,betweenness centrality,0.0,Head-Tail,Male,NACvsCC,CC_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+8,betweenness centrality,0.25,Head-Tail,Male,NACvsCC,CC_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+9,betweenness centrality,0.0,Head-Tail,Male,NACvsCC,Nac_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+10,betweenness centrality,0.0,Head-Tail,Male,NACvsCC,Nac_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+11,betweenness centrality,0.15000000000000002,Head-Tail,Male,NACvsCC,Nac_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
