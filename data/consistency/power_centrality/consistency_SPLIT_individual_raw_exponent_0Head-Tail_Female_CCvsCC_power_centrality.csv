@@ -1,7 +1,0 @@
-,Network Measure,Score,Interaction,Gender,Strain,Care,Group,File,Iteration,Total_Iterations
-0,power centrality,0.125,Head-Tail,Female,CCvsCC,CC1_1,18,fixed_Female-CCvsCC_3vs3Females_P60_CCvsCC_Group9L_interaction_30min_cam_2_Thu_08_01_2019_mjpeg_tracks.mat,1,1
-1,power centrality,0.125,Head-Tail,Female,CCvsCC,CC1_2,18,fixed_Female-CCvsCC_3vs3Females_P60_CCvsCC_Group9L_interaction_30min_cam_2_Thu_08_01_2019_mjpeg_tracks.mat,1,1
-2,power centrality,0.25,Head-Tail,Female,CCvsCC,CC1_3,18,fixed_Female-CCvsCC_3vs3Females_P60_CCvsCC_Group9L_interaction_30min_cam_2_Thu_08_01_2019_mjpeg_tracks.mat,1,1
-3,power centrality,0.25,Head-Tail,Female,CCvsCC,CC2_1,18,fixed_Female-CCvsCC_3vs3Females_P60_CCvsCC_Group9L_interaction_30min_cam_2_Thu_08_01_2019_mjpeg_tracks.mat,1,1
-4,power centrality,0.125,Head-Tail,Female,CCvsCC,CC2_2,18,fixed_Female-CCvsCC_3vs3Females_P60_CCvsCC_Group9L_interaction_30min_cam_2_Thu_08_01_2019_mjpeg_tracks.mat,1,1
-5,power centrality,0.125,Head-Tail,Female,CCvsCC,CC2_3,18,fixed_Female-CCvsCC_3vs3Females_P60_CCvsCC_Group9L_interaction_30min_cam_2_Thu_08_01_2019_mjpeg_tracks.mat,1,1
