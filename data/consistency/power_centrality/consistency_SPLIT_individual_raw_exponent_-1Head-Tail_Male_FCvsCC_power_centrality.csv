@@ -1,0 +1,13 @@
+,Network Measure,Score,Interaction,Gender,Strain,Care,Group,File,Iteration,Total_Iterations
+0,power centrality,0.2,Head-Tail,Male,FCvsCC,CC_1,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,1,5
+1,power centrality,0.4,Head-Tail,Male,FCvsCC,CC_2,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,1,5
+2,power centrality,0.0,Head-Tail,Male,FCvsCC,CC_3,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,1,5
+3,power centrality,0.2,Head-Tail,Male,FCvsCC,FC_1,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,1,5
+4,power centrality,0.0,Head-Tail,Male,FCvsCC,FC_2,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,1,5
+5,power centrality,0.2,Head-Tail,Male,FCvsCC,FC_3,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,1,5
+6,power centrality,0.0,Head-Tail,Male,FCvsCC,CC_1,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,5,5
+7,power centrality,-0.5,Head-Tail,Male,FCvsCC,CC_2,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,5,5
+8,power centrality,0.5,Head-Tail,Male,FCvsCC,CC_3,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,5,5
+9,power centrality,0.0,Head-Tail,Male,FCvsCC,FC_1,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,5,5
+10,power centrality,1.0,Head-Tail,Male,FCvsCC,FC_2,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,5,5
+11,power centrality,0.0,Head-Tail,Male,FCvsCC,FC_3,50,fixed_Male-FCvsCC_3vs3Males_P60_FCvsCC_Group8A_interaction_30min__cam_2_Thu_06_20_2019_mjpeg_tracks.mat,5,5

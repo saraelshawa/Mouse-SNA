@@ -1,0 +1,13 @@
+,Network Measure,Score,Interaction,Gender,Strain,Care,Group,File,Iteration,Total_Iterations
+0,power centrality,0.3076923076923077,Head-Tail,Male,NACvsCC,CC_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+1,power centrality,0.23076923076923078,Head-Tail,Male,NACvsCC,CC_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+2,power centrality,0.3076923076923077,Head-Tail,Male,NACvsCC,CC_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+3,power centrality,-0.0,Head-Tail,Male,NACvsCC,Nac_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+4,power centrality,-0.0,Head-Tail,Male,NACvsCC,Nac_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+5,power centrality,0.15384615384615385,Head-Tail,Male,NACvsCC,Nac_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,1,2
+6,power centrality,0.23529411764705885,Head-Tail,Male,NACvsCC,CC_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+7,power centrality,0.14705882352941177,Head-Tail,Male,NACvsCC,CC_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+8,power centrality,0.2647058823529412,Head-Tail,Male,NACvsCC,CC_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+9,power centrality,0.14705882352941177,Head-Tail,Male,NACvsCC,Nac_1,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+10,power centrality,-0.0,Head-Tail,Male,NACvsCC,Nac_2,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
+11,power centrality,0.20588235294117646,Head-Tail,Male,NACvsCC,Nac_3,8,fixed_Male-NacvsCC_3vs3Males_P60_NacvsCC_Group9X_interaction_30min_cam_2_Wed_09_18_2019_mjpeg_tracks.mat,2,2
