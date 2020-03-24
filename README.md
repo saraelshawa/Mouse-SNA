@@ -1,3 +1,3 @@
 # Mouse-SNA
 
-Analyzing social networks among groups of interacting mice using Python
+Python program that analyzes social networks among groups of interacting mice. 
